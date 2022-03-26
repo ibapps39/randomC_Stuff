@@ -114,4 +114,5 @@ int main(void) {
     int* somePtrToArr = arrArith;
     printf("%i\n", *(somePtrToArr+1)); // prints 22
     return 0;
+    //test
 }
